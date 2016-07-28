@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 6b437655b24159a47ac35849d81ea07a
+timeCreated: 1466552065
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MS-110 Marion (Command Center)
+    100004: MS-110 Marion Explorer Ship
+    100006: MS-110 Marion Left Engine
+    100008: MS-110 Marion LeftMotors
+    100010: MS-110 Marion Right Engine
+    100012: MS-110 Marion RightMotors
+    100014: EMS-110 Marion (Command Center)
+    100016: EMS-110 Marion Explorer Ship
+    100018: EMS-110 Marion Left Engine
+    100020: EMS-110 Marion Right Engine
+    100022: EMS-110 Marion RightMotors
+    100024: EMS-110 Marion LeftMotors
+    400000: //RootNode
+    400002: MS-110 Marion (Command Center)
+    400004: MS-110 Marion Explorer Ship
+    400006: MS-110 Marion Left Engine
+    400008: MS-110 Marion LeftMotors
+    400010: MS-110 Marion Right Engine
+    400012: MS-110 Marion RightMotors
+    400014: EMS-110 Marion (Command Center)
+    400016: EMS-110 Marion Explorer Ship
+    400018: EMS-110 Marion Left Engine
+    400020: EMS-110 Marion Right Engine
+    400022: EMS-110 Marion RightMotors
+    400024: EMS-110 Marion LeftMotors
+    2300000: //RootNode
+    2300002: MS-110 Marion (Command Center)
+    2300004: MS-110 Marion Explorer Ship
+    2300006: MS-110 Marion Left Engine
+    2300008: MS-110 Marion LeftMotors
+    2300010: MS-110 Marion Right Engine
+    2300012: MS-110 Marion RightMotors
+    2300014: EMS-110 Marion (Command Center)
+    2300016: EMS-110 Marion Explorer Ship
+    2300018: EMS-110 Marion Left Engine
+    2300020: EMS-110 Marion Right Engine
+    2300022: EMS-110 Marion RightMotors
+    2300024: EMS-110 Marion LeftMotors
+    3300000: //RootNode
+    3300002: MS-110 Marion (Command Center)
+    3300004: MS-110 Marion Explorer Ship
+    3300006: MS-110 Marion Left Engine
+    3300008: MS-110 Marion LeftMotors
+    3300010: MS-110 Marion Right Engine
+    3300012: MS-110 Marion RightMotors
+    3300014: EMS-110 Marion (Command Center)
+    3300016: EMS-110 Marion Explorer Ship
+    3300018: EMS-110 Marion Left Engine
+    3300020: EMS-110 Marion Right Engine
+    3300022: EMS-110 Marion RightMotors
+    3300024: EMS-110 Marion LeftMotors
+    4300000: MotherShip
+    4300002: MS-110 Marion RightMotors
+    4300004: MS-110 Marion LeftMotors
+    4300006: MS-110 Marion Left Engine
+    4300008: MS-110 Marion (Command Center)
+    4300010: MS-110 Marion Right Engine
+    4300012: MS-110 Marion Explorer Ship
+    4300014: EMS-110 Marion RightMotors
+    4300016: EMS-110 Marion Left Engine
+    4300018: EMS-110 Marion (Command Center)
+    4300020: EMS-110 Marion Right Engine
+    4300022: EMS-110 Marion Explorer Ship
+    4300024: EMS-110 Marion LeftMotors
+    7400000: MotherShip|LampAction
+    7400002: MotherShip|MotherShipAction
+    7400004: MS-110 Marion RightMotors|LampAction
+    7400006: MS-110 Marion RightMotors|LampAction.001
+    7400008: MS-110 Marion RightMotors|LampAction.002
+    7400010: MS-110 Marion RightMotors|LampAction.003
+    7400012: MS-110 Marion RightMotors|LampAction.004
+    7400014: MS-110 Marion RightMotors|LampAction.005
+    7400016: MS-110 Marion RightMotors|LampAction.006
+    7400018: MS-110 Marion RightMotors|LampAction.007
+    7400020: MS-110 Marion RightMotors|MotherShipAction
+    7400022: MS-110 Marion RightMotors|MotherShipAction.001
+    7400024: MS-110 Marion RightMotors|MotherShipAction.002
+    7400026: MS-110 Marion RightMotors|MotherShipAction.003
+    7400028: MS-110 Marion RightMotors|MotherShipAction.004
+    7400030: MS-110 Marion RightMotors|MotherShipAction.005
+    7400032: MS-110 Marion LeftMotors|LampAction
+    7400034: MS-110 Marion LeftMotors|LampAction.001
+    7400036: MS-110 Marion LeftMotors|LampAction.002
+    7400038: MS-110 Marion LeftMotors|LampAction.003
+    7400040: MS-110 Marion LeftMotors|LampAction.004
+    7400042: MS-110 Marion LeftMotors|LampAction.005
+    7400044: MS-110 Marion LeftMotors|LampAction.006
+    7400046: MS-110 Marion LeftMotors|LampAction.007
+    7400048: MS-110 Marion LeftMotors|MotherShipAction
+    7400050: MS-110 Marion LeftMotors|MotherShipAction.001
+    7400052: MS-110 Marion LeftMotors|MotherShipAction.002
+    7400054: MS-110 Marion LeftMotors|MotherShipAction.003
+    7400056: MS-110 Marion LeftMotors|MotherShipAction.004
+    7400058: MS-110 Marion LeftMotors|MotherShipAction.005
+    7400060: MS-110 Marion Left Engine|LampAction
+    7400062: MS-110 Marion Left Engine|LampAction.001
+    7400064: MS-110 Marion Left Engine|LampAction.002
+    7400066: MS-110 Marion Left Engine|LampAction.003
+    7400068: MS-110 Marion Left Engine|LampAction.004
+    7400070: MS-110 Marion Left Engine|LampAction.005
+    7400072: MS-110 Marion Left Engine|LampAction.006
+    7400074: MS-110 Marion Left Engine|LampAction.007
+    7400076: MS-110 Marion Left Engine|MotherShipAction
+    7400078: MS-110 Marion Left Engine|MotherShipAction.001
+    7400080: MS-110 Marion Left Engine|MotherShipAction.002
+    7400082: MS-110 Marion Left Engine|MotherShipAction.003
+    7400084: MS-110 Marion Left Engine|MotherShipAction.004
+    7400086: MS-110 Marion Left Engine|MotherShipAction.005
+    7400088: MS-110 Marion (Command Center)|LampAction
+    7400090: MS-110 Marion (Command Center)|LampAction.001
+    7400092: MS-110 Marion (Command Center)|LampAction.002
+    7400094: MS-110 Marion (Command Center)|LampAction.003
+    7400096: MS-110 Marion (Command Center)|LampAction.004
+    7400098: MS-110 Marion (Command Center)|LampAction.005
+    7400100: MS-110 Marion (Command Center)|LampAction.006
+    7400102: MS-110 Marion (Command Center)|LampAction.007
+    7400104: MS-110 Marion (Command Center)|MotherShipAction
+    7400106: MS-110 Marion (Command Center)|MotherShipAction.001
+    7400108: MS-110 Marion (Command Center)|MotherShipAction.002
+    7400110: MS-110 Marion (Command Center)|MotherShipAction.003
+    7400112: MS-110 Marion (Command Center)|MotherShipAction.004
+    7400114: MS-110 Marion (Command Center)|MotherShipAction.005
+    7400116: MS-110 Marion Right Engine|LampAction
+    7400118: MS-110 Marion Right Engine|LampAction.001
+    7400120: MS-110 Marion Right Engine|LampAction.002
+    7400122: MS-110 Marion Right Engine|LampAction.003
+    7400124: MS-110 Marion Right Engine|LampAction.004
+    7400126: MS-110 Marion Right Engine|LampAction.005
+    7400128: MS-110 Marion Right Engine|LampAction.006
+    7400130: MS-110 Marion Right Engine|LampAction.007
+    7400132: MS-110 Marion Right Engine|MotherShipAction
+    7400134: MS-110 Marion Right Engine|MotherShipAction.001
+    7400136: MS-110 Marion Right Engine|MotherShipAction.002
+    7400138: MS-110 Marion Right Engine|MotherShipAction.003
+    7400140: MS-110 Marion Right Engine|MotherShipAction.004
+    7400142: MS-110 Marion Right Engine|MotherShipAction.005
+    7400144: MS-110 Marion Explorer Ship|LampAction
+    7400146: MS-110 Marion Explorer Ship|LampAction.001
+    7400148: MS-110 Marion Explorer Ship|LampAction.002
+    7400150: MS-110 Marion Explorer Ship|LampAction.003
+    7400152: MS-110 Marion Explorer Ship|LampAction.004
+    7400154: MS-110 Marion Explorer Ship|LampAction.005
+    7400156: MS-110 Marion Explorer Ship|LampAction.006
+    7400158: MS-110 Marion Explorer Ship|LampAction.007
+    7400160: MS-110 Marion Explorer Ship|MotherShipAction
+    7400162: MS-110 Marion Explorer Ship|MotherShipAction.001
+    7400164: MS-110 Marion Explorer Ship|MotherShipAction.002
+    7400166: MS-110 Marion Explorer Ship|MotherShipAction.003
+    7400168: MS-110 Marion Explorer Ship|MotherShipAction.004
+    7400170: MS-110 Marion Explorer Ship|MotherShipAction.005
+    7400172: EMS-110 Marion RightMotors|LampAction
+    7400174: EMS-110 Marion RightMotors|LampAction.001
+    7400176: EMS-110 Marion RightMotors|LampAction.002
+    7400178: EMS-110 Marion RightMotors|LampAction.003
+    7400180: EMS-110 Marion RightMotors|LampAction.004
+    7400182: EMS-110 Marion RightMotors|LampAction.005
+    7400184: EMS-110 Marion RightMotors|LampAction.006
+    7400186: EMS-110 Marion RightMotors|LampAction.007
+    7400188: EMS-110 Marion RightMotors|MotherShipAction
+    7400190: EMS-110 Marion RightMotors|MotherShipAction.001
+    7400192: EMS-110 Marion RightMotors|MotherShipAction.002
+    7400194: EMS-110 Marion RightMotors|MotherShipAction.003
+    7400196: EMS-110 Marion RightMotors|MotherShipAction.004
+    7400198: EMS-110 Marion RightMotors|MotherShipAction.005
+    7400200: EMS-110 Marion Left Engine|LampAction
+    7400202: EMS-110 Marion Left Engine|LampAction.001
+    7400204: EMS-110 Marion Left Engine|LampAction.002
+    7400206: EMS-110 Marion Left Engine|LampAction.003
+    7400208: EMS-110 Marion Left Engine|LampAction.004
+    7400210: EMS-110 Marion Left Engine|LampAction.005
+    7400212: EMS-110 Marion Left Engine|LampAction.006
+    7400214: EMS-110 Marion Left Engine|LampAction.007
+    7400216: EMS-110 Marion Left Engine|MotherShipAction
+    7400218: EMS-110 Marion Left Engine|MotherShipAction.001
+    7400220: EMS-110 Marion Left Engine|MotherShipAction.002
+    7400222: EMS-110 Marion Left Engine|MotherShipAction.003
+    7400224: EMS-110 Marion Left Engine|MotherShipAction.004
+    7400226: EMS-110 Marion Left Engine|MotherShipAction.005
+    7400228: EMS-110 Marion (Command Center)|LampAction
+    7400230: EMS-110 Marion (Command Center)|LampAction.001
+    7400232: EMS-110 Marion (Command Center)|LampAction.002
+    7400234: EMS-110 Marion (Command Center)|LampAction.003
+    7400236: EMS-110 Marion (Command Center)|LampAction.004
+    7400238: EMS-110 Marion (Command Center)|LampAction.005
+    7400240: EMS-110 Marion (Command Center)|LampAction.006
+    7400242: EMS-110 Marion (Command Center)|LampAction.007
+    7400244: EMS-110 Marion (Command Center)|MotherShipAction
+    7400246: EMS-110 Marion (Command Center)|MotherShipAction.001
+    7400248: EMS-110 Marion (Command Center)|MotherShipAction.002
+    7400250: EMS-110 Marion (Command Center)|MotherShipAction.003
+    7400252: EMS-110 Marion (Command Center)|MotherShipAction.004
+    7400254: EMS-110 Marion (Command Center)|MotherShipAction.005
+    7400256: EMS-110 Marion Right Engine|LampAction
+    7400258: EMS-110 Marion Right Engine|LampAction.001
+    7400260: EMS-110 Marion Right Engine|LampAction.002
+    7400262: EMS-110 Marion Right Engine|LampAction.003
+    7400264: EMS-110 Marion Right Engine|LampAction.004
+    7400266: EMS-110 Marion Right Engine|LampAction.005
+    7400268: EMS-110 Marion Right Engine|LampAction.006
+    7400270: EMS-110 Marion Right Engine|LampAction.007
+    7400272: EMS-110 Marion Right Engine|MotherShipAction
+    7400274: EMS-110 Marion Right Engine|MotherShipAction.001
+    7400276: EMS-110 Marion Right Engine|MotherShipAction.002
+    7400278: EMS-110 Marion Right Engine|MotherShipAction.003
+    7400280: EMS-110 Marion Right Engine|MotherShipAction.004
+    7400282: EMS-110 Marion Right Engine|MotherShipAction.005
+    7400284: EMS-110 Marion Explorer Ship|LampAction
+    7400286: EMS-110 Marion Explorer Ship|LampAction.001
+    7400288: EMS-110 Marion Explorer Ship|LampAction.002
+    7400290: EMS-110 Marion Explorer Ship|LampAction.003
+    7400292: EMS-110 Marion Explorer Ship|LampAction.004
+    7400294: EMS-110 Marion Explorer Ship|LampAction.005
+    7400296: EMS-110 Marion Explorer Ship|LampAction.006
+    7400298: EMS-110 Marion Explorer Ship|LampAction.007
+    7400300: EMS-110 Marion Explorer Ship|MotherShipAction
+    7400302: EMS-110 Marion Explorer Ship|MotherShipAction.001
+    7400304: EMS-110 Marion Explorer Ship|MotherShipAction.002
+    7400306: EMS-110 Marion Explorer Ship|MotherShipAction.003
+    7400308: EMS-110 Marion Explorer Ship|MotherShipAction.004
+    7400310: EMS-110 Marion Explorer Ship|MotherShipAction.005
+    7400312: EMS-110 Marion LeftMotors|LampAction
+    7400314: EMS-110 Marion LeftMotors|LampAction.001
+    7400316: EMS-110 Marion LeftMotors|LampAction.002
+    7400318: EMS-110 Marion LeftMotors|LampAction.003
+    7400320: EMS-110 Marion LeftMotors|LampAction.004
+    7400322: EMS-110 Marion LeftMotors|LampAction.005
+    7400324: EMS-110 Marion LeftMotors|LampAction.006
+    7400326: EMS-110 Marion LeftMotors|LampAction.007
+    7400328: EMS-110 Marion LeftMotors|MotherShipAction
+    7400330: EMS-110 Marion LeftMotors|MotherShipAction.001
+    7400332: EMS-110 Marion LeftMotors|MotherShipAction.002
+    7400334: EMS-110 Marion LeftMotors|MotherShipAction.003
+    7400336: EMS-110 Marion LeftMotors|MotherShipAction.004
+    7400338: EMS-110 Marion LeftMotors|MotherShipAction.005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
